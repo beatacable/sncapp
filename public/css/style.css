@@ -1,0 +1,21 @@
+body {
+  background-color: #E0E0E0;
+}
+h3 {
+  padding-top: 20px;
+  align-content: center;
+  align-self: center;
+  align: center;
+  text-align: center;
+}
+table {
+    width: 100%;
+}
+
+th {
+    height: 55px;
+    text-align: center;
+}
+td {
+  text-align: center;
+}
